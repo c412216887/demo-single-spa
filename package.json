@@ -10,6 +10,10 @@
   "main": "./dist/counter.umd.cjs",
   "module": "./dist/counter.js",
   "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c412216887/demo-single-spa.git"
+  },
   "exports": {
     "types": "./index.d.ts",
     "import": "./dist/counter.js",
